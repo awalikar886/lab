@@ -1,4 +1,4 @@
-form e import employee_details
+from e import employee_details
 
 def test_emplyee_details():
     expected output=(
